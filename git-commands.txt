@@ -1,0 +1,55 @@
+1 try { . "c:\Users\OPC\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegra... 
+   2 pwd
+   3 python testing.py
+   4 ls
+   5 ls -l
+   6 git init
+   7 dir
+   8 git status
+   9 dir
+  10 git add testing.py
+  11 git status
+  12 git rm --cached testing.py
+  13 git status
+  14 git add .
+  15 git status
+  16 git commit -m"Added testing file"
+  17 git status
+  18 rm testing.py
+  19 ls
+  20 git status
+  21 git restore testing.py
+  22 git status
+
+  1 try { . "c:\Users\OPC\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegra... 
+   2 pwd
+   3 python testing.py
+   4 ls
+   5 ls -l
+   6 git init
+   7 dir
+   8 git status
+   9 dir
+  10 git add testing.py
+  11 git status
+  12 git rm --cached testing.py
+  13 git status
+  14 git add .
+  15 git status
+  16 git commit -m"Added testing file"
+  17 git status
+  18 rm testing.py
+  19 ls
+  20 git status
+  21 git restore testing.py
+  22 git status
+  23 history
+  24 git add git-commands.txt
+  25 git status
+  26 git remote add origin https://github.com/nilampatel28/github-for-devops-workshop.git
+  27 git remote -v
+  28 git status
+  29 git push origin master
+  30 git remote set-url origin 
+  31 git remote -v
+  32 git push origin master
